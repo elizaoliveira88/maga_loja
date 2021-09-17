@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: block;
+}
+
+.form input{
+  border-radius: 8px;
+  height: 3rem;
+  margin: 1rem;
+}
+
+.formButton{
+  border-radius: 5px;
+  box-shadow: 2px 3px 4px 2px;
+}
